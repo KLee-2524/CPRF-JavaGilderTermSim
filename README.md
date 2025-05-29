@@ -5,3 +5,6 @@ Please note that this simulator was heavily inspired by the original simulator c
 
 # Prequisite
 Please ensure you have the Java Development Kit (JDK) installed on your system. You can download it here: https://www.oracle.com/java/technologies/downloads/.
+
+# Using this Simulator
+Here is a helpful video if you would like to download and run this simulator on your local Windows computer's command line: https://www.youtube.com/watch?v=uA4eQbC3JgA (skip to 3:20).
